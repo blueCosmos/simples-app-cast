@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Simples App</title>
+        <item>
+            <title>Version 2.0.5480.1</title>
+            <description>Added Upgrader Package</description>
+            <pubDate>Mon, 1 Jul 2022 16:53:00 +1000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ctmau.app.simples" sparkle:version="2.0.5480.1" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
