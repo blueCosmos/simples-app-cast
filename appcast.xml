@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Simples App</title>
-        <item>
+        <items>
+          <item>
             <title>Version 2.0.5480.1</title>
             <description>Added Upgrader Package</description>
             <pubDate>Mon, 1 Jul 2022 16:53:00 +1000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.ctmau.app.simples" sparkle:version="2.0.5480.1" sparkle:os="android" />
-        </item>
+          </item>
+          <item>
+            <title>Version 2.0.5480.1</title>
+            <description>Added Upgrader Package</description>
+            <pubDate>Mon, 1 Jul 2022 16:53:00 +1000</pubDate>
+            <enclosure url="https://apps.apple.com/au/app/simples-compare-save/id1475703699" sparkle:version="2.0.5480.1" sparkle:os="ios" />
+           </item>
+        </items>
     </channel>
 </rss>
